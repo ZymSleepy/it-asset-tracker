@@ -1,4 +1,4 @@
-﻿# C# / .NET Coding Standards
+# C# / .NET Coding Standards
 
 > Personal engineering standards I follow on every C#/.NET project. Kept here so my code is consistent, reviewable, and professional-grade — and so anyone looking at my repos can see how I work.
 

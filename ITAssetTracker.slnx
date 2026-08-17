@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="dotnet.yml" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="CODING_STANDARDS.md" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="ITAssetTracker.Tests/ITAssetTracker.Tests.csproj" Id="35071281-d743-4f9f-8b5d-d920412f02dd" />
   <Project Path="ITAssetTracker/ITAssetTracker.csproj" />
 </Solution>
