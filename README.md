@@ -1,3 +1,7 @@
+![Build Status](https://github.com/ZymSleepy/it-asset-tracker/actions/workflows/dotnet.yml/badge.svg)
+
+# IT Asset & Ticket Tracker
+
 # IT Asset & Ticket Tracker
 
 A web application for managing IT assets (laptops, monitors, etc.) and support tickets, built to reflect real IT support workflows — inspired by my experience in IT support and endpoint security monitoring during my internship.
